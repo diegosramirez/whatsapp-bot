@@ -1,0 +1,236 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491144951604@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB060E0A6F705D78F43C0',
+    participant: undefined
+  },
+  messageTimestamp: 1715820625,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491144951604'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ad8efebd-9841-4d39-bf81-f10e1247f0b7',
+  keyword: 'key_a9e75a39-cdae-4fbd-bf0e-b988f2f0ccfc',
+  answer: '🙌 Hola. ¿Como estas?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e6ba514197a57aec035c8b576d56810'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e3ca328-b9c3-4bef-8677-db37475f0264',
+  keyword: 'ans_ad8efebd-9841-4d39-bf81-f10e1247f0b7',
+  answer: '👉 *1* ¿Queres cargar? En breve te pasamos un CBU.\n' +
+    '👉 *2* ¿Queres retirar tu premio?\n' +
+    '👉 *3* ¿Queres hablar con un ascesor?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '83b4642b17eef8aa9acf1c9cef8e1099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491144951604@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EBD860E22534A9E86B',
+    participant: undefined
+  },
+  messageTimestamp: 1715820630,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5491144951604'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0dd31766-72a8-4c05-87cc-b27934544a58',
+  keyword: 'key_6dc219bd-4fa3-41cd-94b4-7060d4c942d4',
+  answer: '🤪 Únete al discord\n' +
+    'https://link.codigoencasa.com/DISCORD\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a95f7a48811cd9983977ddcb778ed15b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491144951604@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0247C336ED334EAC05D',
+    participant: undefined
+  },
+  messageTimestamp: 1715820635,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5491144951604'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3f443dc2-2a7f-4b78-8aba-82770e7440e7',
+  keyword: 'key_68ba3fae-4a1a-4e30-b63d-7343dd49e48c',
+  answer: '📄 Aquí tenemos el flujo secundario',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79490378c31c52cee09835e2ffacca2d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491144951604@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB028BCC4EA14EC17EA8E',
+    participant: undefined
+  },
+  messageTimestamp: 1715820640,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491144951604'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ad8efebd-9841-4d39-bf81-f10e1247f0b7',
+  keyword: 'key_a9e75a39-cdae-4fbd-bf0e-b988f2f0ccfc',
+  answer: '🙌 Hola. ¿Como estas?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e6ba514197a57aec035c8b576d56810'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e3ca328-b9c3-4bef-8677-db37475f0264',
+  keyword: 'ans_ad8efebd-9841-4d39-bf81-f10e1247f0b7',
+  answer: '👉 *1* ¿Queres cargar? En breve te pasamos un CBU.\n' +
+    '👉 *2* ¿Queres retirar tu premio?\n' +
+    '👉 *3* ¿Queres hablar con un ascesor?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '83b4642b17eef8aa9acf1c9cef8e1099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491144951604@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A4F6090D88CA556BFA',
+    participant: undefined
+  },
+  messageTimestamp: 1715820646,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5491144951604'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d7b7d9d7-bd0d-430a-a7ed-1def593bbd62',
+  keyword: 'key_d8cd5358-2c7b-486d-bff5-6283a96abdc8',
+  answer: '🤪 Únete al discord\n' +
+    'https://link.codigoencasa.com/DISCORD\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dab9e992886e29d4576dd4e62820e3a6'
+}
