@@ -65,9 +65,7 @@ const flowDiscord = addKeyword(["discord"]).addAnswer(
 
 const flowCargar = addKeyword(["1"]).addAnswer(
   [
-    "🤪 Únete al discord",
-    "https://link.codigoencasa.com/DISCORD",
-    "\n*2* Para siguiente paso.",
+    "CBU: XXXXXX. Por favor, envíanos una foto del comprobante para confirmar la transacción.",
   ],
   null,
   null,
@@ -76,9 +74,7 @@ const flowCargar = addKeyword(["1"]).addAnswer(
 
 const flowRetirar = addKeyword(["2"]).addAnswer(
   [
-    "🤪 Únete al discord",
-    "https://link.codigoencasa.com/DISCORD",
-    "\n*2* Para siguiente paso.",
+    "Por favor, proporciónanos el CBU o el alias junto con el nombre y apellido del titular de la cuenta para proceder con el retiro de tu premio.",
   ],
   null,
   null,
@@ -87,24 +83,20 @@ const flowRetirar = addKeyword(["2"]).addAnswer(
 
 const flowAscesor = addKeyword(["3"]).addAnswer(
   [
-    "🤪 Únete al discord",
-    "https://link.codigoencasa.com/DISCORD",
-    "\n*2* Para siguiente paso.",
+    "Gracias por tu solicitud. Un asesor se pondrá en contacto contigo a la brevedad.",
   ],
   null,
   null,
   [flowSecundario]
 );
 
-// hola como estas ? Opcion 1 queres cargar ?? En breve te pasamos cbu 2 queres retirar tu premio 3 queres hablar con un acesor
-
 const flowPrincipal = addKeyword(["hola"])
   .addAnswer("🙌 Hola. ¿Como estas?")
   .addAnswer(
     [
-      "👉 *1* ¿Queres cargar? En breve te pasamos un CBU.",
+      "👉 *1* ¿Deseas realizar una carga? Te proporcionaremos el CBU en breve.",
       "👉 *2* ¿Queres retirar tu premio?",
-      "👉 *3* ¿Queres hablar con un ascesor?",
+      "👉 *3* ¿Deseas hablar con un asesor?",
     ],
     null,
     null,
